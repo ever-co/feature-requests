@@ -1,2 +1,3 @@
 # feature-requests
-Feature requests for Ever Platform
+
+This repository is used to track issues for new features for Ever Platform
